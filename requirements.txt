@@ -8,6 +8,7 @@ colorama==0.4.6
 comm==0.2.0
 contourpy==1.2.0
 cycler==0.12.1
+Cython==3.0.11
 dask==2024.4.2
 dask-expr==1.0.13
 debugpy==1.8.0
@@ -41,6 +42,7 @@ partd==1.4.1
 patsy==0.5.4
 Pillow==10.1.0
 platformdirs==4.1.0
+pmdarima==2.0.4
 prompt-toolkit==3.0.41
 psutil==5.9.6
 pure-eval==0.2.2
